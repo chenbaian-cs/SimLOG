@@ -25,7 +25,7 @@ python setup.py develop
 
 ### Training and Testing
 
-Download the pretrained weights from [Baidu]() and put them in the `checkpoints` folder. Use `votenet_3dlg_sunrgbd-3d-10class` as an example:
+Download the pretrained weights from [Baidu](https://pan.baidu.com/s/15NQSoitFIIRgLeuBeR4DYg) and put them in the `checkpoints` folder. Use `votenet_3dlg_sunrgbd-3d-10class` as an example:
 
 ```
 # Training
