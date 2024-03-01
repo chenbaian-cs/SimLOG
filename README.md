@@ -1,4 +1,6 @@
 # 3DLG-Detector
+The GitHub.io webpage for our project is currently under construction. Stay tuned for updates!
+
 3D Object Detection via Simultaneous Local-Global Feature Learning. This work is developed on the top of [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) toolbox and includes the models and results on SUN RGB-D and ScanNet datasets in the paper.
 
 ## Installation and Usage
@@ -25,7 +27,7 @@ python setup.py develop
 
 ### Training and Testing
 
-Download the pretrained weights from [Baidu](https://pan.baidu.com/s/15NQSoitFIIRgLeuBeR4DYg) and put them in the `checkpoints` folder. Use `votenet_3dlg_sunrgbd-3d-10class` as an example:
+Download the pretrained weights from [Baidu](https://pan.baidu.com/s/15NQSoitFIIRgLeuBeR4DYg) [提取码：1234] and [Google](https://drive.google.com/drive/folders/1D8gWHh3QTQQQqx3acXVKJ5-fvm70QtYx?usp=drive_link) and put them in the `checkpoints` folder. Use `votenet_3dlg_sunrgbd-3d-10class` as an example:
 
 ```
 # Training
