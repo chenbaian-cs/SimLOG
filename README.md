@@ -1,4 +1,4 @@
-# 3DLG-Detector
+# SimLOG
 The GitHub.io webpage for our project is currently under construction. Stay tuned for updates!
 
 3D Object Detection via Simultaneous Local-Global Feature Learning. This work is developed on the top of [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) toolbox and includes the models and results on SUN RGB-D and ScanNet datasets in the paper.
